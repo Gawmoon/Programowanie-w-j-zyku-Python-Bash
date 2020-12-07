@@ -1,1 +1,1 @@
-# Programowanie-w-j-zyku-Python-Bash
+Pyhthon AGH
